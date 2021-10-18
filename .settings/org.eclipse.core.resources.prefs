@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//nets/ssd.py=UTF-8
+encoding//nets/ssd_layers.py=gbk
+encoding//utils/config.py=UTF-8
+encoding/get_dr_txt.py=gbk
+encoding/get_gt_txt.py=gbk
+encoding/predict.py=gbk
+encoding/ssd.py=UTF-8
+encoding/train.py=UTF-8
+encoding/voc_annotation.py=UTF-8
